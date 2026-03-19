@@ -67,7 +67,7 @@ Open in **Android Studio** → Click **Run ▶️**
 Update your base URL in the code:
 
 ```java
-webView.loadUrl("https://your-domain.com");
+webView.loadUrl("https://school.cloord.com");
 ```
 
 ---
